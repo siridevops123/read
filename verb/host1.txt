@@ -1,1 +1,8 @@
- host1.txt 
+host1.txt
+---
+host: server2
+tasks:
+apt installl jenkins
+notify:
+cgfhfggjhgjhg
+fhgjhgjhhjkjrestart the server2
